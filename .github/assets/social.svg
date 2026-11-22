@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="t d">
+  <title id="t">Personal Context Curator</title>
+  <desc id="d">个人上下文档案。一组带有分色标签的纸质档案卡。</desc>
+  <rect width="1280" height="640" fill="#f2efe6"/>
+  <path d="M80 62H1200M80 578H1200" stroke="#bdb9a8"/>
+  <g transform="translate(545 105) scale(0.85)" stroke="#394b43" stroke-width="3" stroke-linejoin="round">
+    <path d="M20 34V12H87L98 0H182L194 13H223V122H20Z" fill="#cea782"/>
+    <path d="M9 60V32H52L64 19H132L144 32H215V148H9Z" fill="#a9bba6"/>
+    <path d="M0 176V54H47L59 41H103L115 54H206V176Z" fill="#fffaf0"/>
+    <path d="M25 92H163M25 108H146M25 124H94" fill="none" stroke="#819084" stroke-width="3"/>
+  </g>
+  <text text-anchor="middle" x="640" y="395" font-family="Georgia, 'Times New Roman', serif" font-size="94" fill="#243d32">Personal Context Curator</text>
+  <text text-anchor="middle" x="640" y="467" font-family="system-ui, 'Microsoft YaHei', sans-serif" font-size="35" fill="#47584c">个人上下文档案</text>
+</svg>
