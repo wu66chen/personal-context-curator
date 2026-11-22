@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/banner.svg" alt="Personal Context Curator · 个人上下文档案" width="100%">
+  <img src=".github/assets/social-preview.png" alt="个人上下文档案 · Personal Context Curator。把设备配置、习惯和偏好存成 Markdown，换个 AI 对话只带相关的几页。" width="100%">
 </p>
 
 # Personal Context Curator · 个人上下文档案
